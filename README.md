@@ -1,5 +1,7 @@
 ![nics_logo-removebg-preview](https://user-images.githubusercontent.com/72240938/185787392-f4163554-d2e9-45dd-8b00-7004941be899.png)
 ![1647372301449-removebg-preview (2)](https://user-images.githubusercontent.com/72240938/185787416-c1821318-bd63-4a81-85b3-9af1e173a0c5.png)
+![LogoMakr](https://user-images.githubusercontent.com/72240938/185787581-2a773bfa-1013-4c70-83ae-422401e4ff90.png)
+
 
 ## D'Challenger NICS_FIREARM Challenge  
 
