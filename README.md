@@ -1,4 +1,8 @@
-## D'Challenger NICS_FIREARM Challenge 
+![nics_logo-removebg-preview](https://user-images.githubusercontent.com/72240938/185787392-f4163554-d2e9-45dd-8b00-7004941be899.png)
+![1647372301449-removebg-preview (2)](https://user-images.githubusercontent.com/72240938/185787416-c1821318-bd63-4a81-85b3-9af1e173a0c5.png)
+
+## D'Challenger NICS_FIREARM Challenge  
+
 
 I have been a part of the NICS Firearm Challenge for the month of August.
 
@@ -6,9 +10,10 @@ I have been a part of the NICS Firearm Challenge for the month of August.
 
 
 ## Overview:
-I was provided one excel file which contained 3 datasets: NICS-Firearm-Background-Checks, Explanation Sheet
-The sheet "NICS-Firearm-Background-Checks" contains information about month, handgun, long gun and information about prepawn, redemption, return to seller, returned guns and private sale guns.
-While the "Explanation Sheet" contains information about the different handgun, long gun, prepawn firearms and redeemed firearms.
+
+* I was provided one excel file which contained 3 datasets: NICS-Firearm-Background-Checks, Explanation Sheet
+* The sheet "NICS-Firearm-Background-Checks" contains information about month, handgun, long gun and information about prepawn, redemption, return to seller, returned guns and private sale guns.
+* While the "Explanation Sheet" contains information about the different handgun, long gun, prepawn firearms and redeemed firearms.
 
 
 ## Objective:
@@ -31,7 +36,9 @@ prepawn and redempted guns too.
 
 
 ## Original Excel Page:
-[nics-firearm-background-checks.xlsx](https://github.com/amansingh1912/D-Challenger_NICS_FIREARM-Challenge/files/9388845/nics-firearm-background-checks.xlsx)
+
+![nics firearm background checks picture](https://user-images.githubusercontent.com/72240938/185787502-68982259-0f1c-4e28-93a7-57616c586c86.png)
+
 
 ## After loading these worksheets in Power BI:
 
